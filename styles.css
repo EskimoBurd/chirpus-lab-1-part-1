@@ -1,0 +1,71 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+
+}
+
+h1 {position: absolute;
+        top: 20%;
+        left: 1%;
+}
+
+nav a:first-child{
+    float: right;
+}
+
+nav a{
+    list-style: none;
+    margin: 10px;
+    float: right;
+}
+
+.button {background-color: #000; /* Black */
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        width: 75px;
+        height: 50px;
+        border-radius: 9px;
+        color: white;
+}
+
+.Hire{background-color: #000; /* Black */
+      color: white;
+      border-radius: 13px;
+}
+
+p { position: absolute;
+    top: 30%;
+    right: 57%;
+
+}
+
+.orange {
+    background-color:rgba(247, 193, 162, 0.7);
+    position: absolute;
+    top: 55%;
+    left: 78%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.purple {
+    background-color: rgba(207, 130, 213, 0.6);
+    position: absolute;
+    top: 45%;
+    left: 82%;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.blue {
+    background-color: rgba(247, 136, 167, 0.6);
+    position: absolute;
+    top: 39%;
+    left: 68%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
